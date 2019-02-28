@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DwelloAssignment</string>
+    <string name="hint_search">Search</string>
+
+    <string name="tap_to_retry">\nTap to Retry</string>
+    <string name="no_posts">You do not have any posts yet</string>
+</resources>
